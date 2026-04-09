@@ -7,9 +7,13 @@ Control Analógico Inteligente
 **b. Descripción general**  
 Dispositivo que detecta movimiento del pulgar y traduce en señales para controlar videojuegos.
 
-**c. Usuario objetivo** 
+**c. Usuario objetivo**
 Jugadores de videojuegos en consolas o PC.
 
 **d. Entradas**  
 Sensor: Potenciómetro. Señal: Analógica (posición del joystick en ejes X y Y).
+
+**e. Salidas** 
+
+Actuador: Señal digital enviada a consola. Tipo: Señal digital de control.
 
