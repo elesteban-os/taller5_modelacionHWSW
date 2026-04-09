@@ -14,6 +14,5 @@ Jugadores de videojuegos en consolas o PC.
 Sensor: Potenciómetro. Señal: Analógica (posición del joystick en ejes X y Y).
 
 **e. Salidas** 
-
 Actuador: Señal digital enviada a consola. Tipo: Señal digital de control.
 
